@@ -26,3 +26,10 @@ jobs:
 
     - name: Run Console App
       run: dotnet run
+      # Capture console output and print it
+      env:
+        OUTPUT: |
+          $(dotnet run)
+      shell: bash
+    - name: Print Console Output
+      run: echo "$OUTPUT"
