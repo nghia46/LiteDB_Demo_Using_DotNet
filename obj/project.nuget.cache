@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JuOx3ojsliV2CQdcIwoa7SZ4wJloKjYLNNfOWNIHUXMYz0/bDKCYwf/Eps+N0y8nqwOnJZD8kLJTYe/DeqQqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\LiteDB_Py_Demo\\LiteDB_Py_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\litedb\\5.0.19\\litedb.5.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

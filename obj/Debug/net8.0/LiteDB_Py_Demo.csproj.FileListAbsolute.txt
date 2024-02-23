@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\bin\Debug\net8.0\LiteDB_Py_Demo.exe
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\bin\Debug\net8.0\LiteDB_Py_Demo.deps.json
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\bin\Debug\net8.0\LiteDB_Py_Demo.runtimeconfig.json
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\bin\Debug\net8.0\LiteDB_Py_Demo.dll
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\bin\Debug\net8.0\LiteDB_Py_Demo.pdb
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\bin\Debug\net8.0\LiteDB.dll
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\LiteDB_Py_Demo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\LiteDB_Py_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\LiteDB_Py_Demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\LiteDB_Py_Demo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\LiteDB_Py_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\LiteDB_P.01255D5A.Up2Date
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\LiteDB_Py_Demo.dll
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\refint\LiteDB_Py_Demo.dll
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\LiteDB_Py_Demo.pdb
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\LiteDB_Py_Demo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\LiteDB_Py_Demo\obj\Debug\net8.0\ref\LiteDB_Py_Demo.dll
