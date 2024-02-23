@@ -25,4 +25,4 @@ jobs:
       run: dotnet build --configuration Release
 
     - name: Run Console App
-      run: dotnet run --project .\LiteDB_Py_Demo.csproj
+      run: dotnet run
