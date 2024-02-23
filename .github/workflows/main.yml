@@ -31,5 +31,3 @@ jobs:
         OUTPUT: |
           $(dotnet run)
       shell: bash
-    - name: Print Console Output
-      run: echo "$OUTPUT"
