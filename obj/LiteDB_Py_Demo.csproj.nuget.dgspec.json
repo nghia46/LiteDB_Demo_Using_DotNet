@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\LiteDB_Py_Demo\\LiteDB_Py_Demo.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\LiteDB_Demo_Dotnet\\LiteDB_Py_Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\LiteDB_Py_Demo\\LiteDB_Py_Demo.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\LiteDB_Demo_Dotnet\\LiteDB_Py_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\LiteDB_Py_Demo\\LiteDB_Py_Demo.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\LiteDB_Demo_Dotnet\\LiteDB_Py_Demo.csproj",
         "projectName": "LiteDB_Py_Demo",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\LiteDB_Py_Demo\\LiteDB_Py_Demo.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\LiteDB_Demo_Dotnet\\LiteDB_Py_Demo.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\LiteDB_Py_Demo\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\LiteDB_Demo_Dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Apps\\CodeApp\\IDE\\Visual Studio\\Shared\\NuGetPackages"
@@ -66,12 +66,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.1.24101.2/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

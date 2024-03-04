@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiteDB_Py_Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4253c128d8029baa016aa256b6b996d9e7fc22b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiteDB_Py_Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiteDB_Py_Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
